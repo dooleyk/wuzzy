@@ -27,3 +27,5 @@ LangInfoError: no info on 'Wuzzy' komodo lang
 
 I have been able to 'fix' the import error by pasting the cile_wuzzy.py code inside codeintel_wuzzy.py.
 
+Built and tested using Komodo IDE, version 9.0.1, build 87208, platform linux-x86_64.
+Built on Thu Apr 16 12:42:33 2015.
