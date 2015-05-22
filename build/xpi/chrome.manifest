@@ -1,0 +1,6 @@
+content wuzzylanguage content/
+skin wuzzylanguage classic/1.0 skin/
+locale wuzzylanguage en-US locale/en-US/
+
+manifest components/component.manifest
+category udl-lexers wuzzy_language@wuzzy.org 1

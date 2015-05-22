@@ -1,0 +1,4 @@
+contract @activestate.com/koLanguage?language=Wuzzy;1 {077a1e5f-d42d-4b66-a388-07d43aed8170}
+category komodo-language-info Wuzzy %7B%22name%22%3A%20%22Wuzzy%22%2C%20%22defaultExtension%22%3A%20%22.wzy%22%2C%20%22primary%22%3A%201%7D
+component {077a1e5f-d42d-4b66-a388-07d43aed8170} koWuzzy_UDL_Language.py
+category komodo-language Wuzzy @activestate.com/koLanguage?language=Wuzzy;1
